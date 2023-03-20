@@ -1,14 +1,16 @@
 # Getting Started with Create React App
 
 This project used:
-- Mongo DB
-- Node JS
-- ExpresJS
+
+Frontend
 - React
 - Axios
 - React-bootstrap
 
-
+Backend
+- Mongo DB
+- Node JS
+- ExpresJS
 
 ## Available Scripts
 
