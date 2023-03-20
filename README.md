@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project used:
+- Mongo DB
+- Node JS
+- ExpresJS
+- React
+- Axios
+- React-bootstrap
+
+
 
 ## Available Scripts
 
